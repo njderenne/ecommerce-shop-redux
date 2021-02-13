@@ -4,7 +4,7 @@ import reducer from './reducers';
 const initialState = {
     products: [],
     categories: [],
-    currentCategory: {},
+    currentCategory: '',
     cart: [],
     cartOpen: false
 };
